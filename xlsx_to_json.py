@@ -32,7 +32,7 @@ def generatePopup(row):
     return popupString
 
 def generateJson(file_path_excel, file_path_json):
-    data = {"Großflächen": {"type": "FeatureCollection", "features": []}}
+    data = {"Großfläche": {"type": "FeatureCollection", "features": []}}
 
 
     excel = pd.read_excel(file_path_excel)

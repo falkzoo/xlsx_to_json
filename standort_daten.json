@@ -1,7 +1,143 @@
 {
-    "Gro\u00dffl\u00e4chen": {
+    "Gro\u00dffl\u00e4che": {
         "type": "FeatureCollection",
-        "features": []
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4chen - Moritzplatz",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Moritzplatz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Moritzplatz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2350-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2350-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.410074,
+                        52.503893
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4chen - Moritzplatz",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Moritzplatz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Moritzplatz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2347-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2347-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.410691,
+                        52.503932
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4chen - Moritzplatz",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Moritzplatz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Moritzplatz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2349-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2349-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.410863,
+                        52.504043
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4chen - Hasenheide",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Hasenheide</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Hasenheide<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Hermannplatz-wtm-aussenwerbung-berlin-2378-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Hermannplatz-wtm-aussenwerbung-berlin-2378-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.42304,
+                        52.48688
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4chen - Hasenheide",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Hasenheide</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Hasenheide<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Hermannplatz-wtm-aussenwerbung-berlin-2377-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Hermannplatz-wtm-aussenwerbung-berlin-2377-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.42323,
+                        52.48684
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4chen - Elsterwerdaer Platz",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Elsterwerdaer Platz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Elsterwerdaer Platz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: <br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Elsterwerdaer-Platz-wtm-aussenwerbung-berlin-2436-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Elsterwerdaer-Platz-wtm-aussenwerbung-berlin-2436-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.561973,
+                        52.505917
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4che - Alboinstra\u00dfe",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4che - Alboinstra\u00dfe</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Alboinstra\u00dfe<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: <br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-alboinstr-punkt1-plakatwerbung-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-alboinstr-punkt1-plakatwerbung-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.369621,
+                        52.461321
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4chen - Breslauer Platz",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Breslauer Platz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Breslauer Platz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: <br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/breslauer-platz-wtm-aussenwerbung-berlin-2511-Kopie.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/breslauer-platz-wtm-aussenwerbung-berlin-2511-3.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.335106,
+                        52.471645
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gro\u00dffl\u00e4chen am Parkplatz - Innsbrucker Platz",
+                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen am Parkplatz - Innsbrucker Platz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Innsbrucker Platz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: <br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Insbrucker-Platz-wtm-aussenwerbung-berlin-2396-3.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Insbrucker-Platz-wtm-aussenwerbung-berlin-2396-2-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
+                    "Category": "Gro\u00dffl\u00e4che"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.342772,
+                        52.478445
+                    ]
+                }
+            }
+        ]
     },
     "Plakatwerbung": {
         "type": "FeatureCollection",
@@ -1123,146 +1259,6 @@
                     "coordinates": [
                         13.271179,
                         52.510106
-                    ]
-                }
-            }
-        ]
-    },
-    "Gro\u00dffl\u00e4che": {
-        "type": "FeatureCollection",
-        "features": [
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4chen - Moritzplatz",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Moritzplatz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Moritzplatz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2350-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2350-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.410074,
-                        52.503893
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4chen - Moritzplatz",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Moritzplatz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Moritzplatz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2347-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2347-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.410691,
-                        52.503932
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4chen - Moritzplatz",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Moritzplatz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Moritzplatz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2349-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Moritzplatz-wtm-aussenwerbung-berlin-2349-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.410863,
-                        52.504043
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4chen - Hasenheide",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Hasenheide</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Hasenheide<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Hermannplatz-wtm-aussenwerbung-berlin-2378-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Hermannplatz-wtm-aussenwerbung-berlin-2378-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.42304,
-                        52.48688
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4chen - Hasenheide",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Hasenheide</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Hasenheide<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: nein<br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Hermannplatz-wtm-aussenwerbung-berlin-2377-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Hermannplatz-wtm-aussenwerbung-berlin-2377-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.42323,
-                        52.48684
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4chen - Elsterwerdaer Platz",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Elsterwerdaer Platz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Elsterwerdaer Platz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: <br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Elsterwerdaer-Platz-wtm-aussenwerbung-berlin-2436-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Elsterwerdaer-Platz-wtm-aussenwerbung-berlin-2436-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.561973,
-                        52.505917
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4che - Alboinstra\u00dfe",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4che - Alboinstra\u00dfe</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Alboinstra\u00dfe<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: <br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-alboinstr-punkt1-plakatwerbung-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-alboinstr-punkt1-plakatwerbung-2.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.369621,
-                        52.461321
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4chen - Breslauer Platz",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen - Breslauer Platz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Breslauer Platz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: <br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/breslauer-platz-wtm-aussenwerbung-berlin-2511-Kopie.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/breslauer-platz-wtm-aussenwerbung-berlin-2511-3.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.335106,
-                        52.471645
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "Name": "Gro\u00dffl\u00e4chen am Parkplatz - Innsbrucker Platz",
-                    "popupContent": "<div class='mCustomScrollbar' data-mcs-theme='rounded-dark'><div class='cf'><div><h3>Gro\u00dffl\u00e4chen am Parkplatz - Innsbrucker Platz</h3><br> Werbetr\u00e4ger: Gro\u00dffl\u00e4che<br>Ort: Innsbrucker Platz<br>Standort: auf der Stra\u00dfe<br>Ma\u00dfe: 18/1<br>Beleuchtet: <br>Buchungsinterball: Dekade<br>Vorlaufzeit: 3 Wochen<br><hr><br></div><div><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Insbrucker-Platz-wtm-aussenwerbung-berlin-2396-3.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/Insbrucker-Platz-wtm-aussenwerbung-berlin-2396-2-1.jpg style='width: 15vw; min-width: 200px;'><img src= https://www.wtm-aussenwerbung.de/wp-content/uploads/wtm-aussenwerbung.webp style='width: 15vw; min-width: 200px;'></div></div>",
-                    "Category": "Gro\u00dffl\u00e4che"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        13.342772,
-                        52.478445
                     ]
                 }
             }
